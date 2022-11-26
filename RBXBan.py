@@ -1,3 +1,7 @@
+'''
+This code was fixed up by trolzec [gangsta#6905]
+'''
+
 #Importing Modules and Setting up proxies and useragents and cookie
 import requests, json, lxml, random, time
 from bs4 import BeautifulSoup
